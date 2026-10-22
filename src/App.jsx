@@ -6,7 +6,7 @@ function App() {
     <main className="min-h-screen bg-gray-50 p-6">
       <Cartao
         imagem="https://images.unsplash.com/photo-1500530855697-b586d89ba3ee"
-        titulo="Explorando a natureza"
+        titulo="Um fã doido de bleach larpando"
         descricao="Descubra paisagens incríveis, conheça novos lugares e aproveite a beleza do mundo natural."
       />
     </main>
